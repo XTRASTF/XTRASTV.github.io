@@ -50,14 +50,10 @@
 	 font-family: century-gothic !important;
     color: #85754E !important;
     text-transform: capitalize !important;
-    font-size: 38px !important;
-}
-.tl-slide .tl-slide-content-container {
-    display: table-cell;
-    padding-bottom: 34px !important;
+    font-size: 28px !important;
+    line-height: 30px !important;
 }
 .tl-timenav {
-	margin-top: 34px;
     width: 100%;
     background-color: #85754E;
 }
