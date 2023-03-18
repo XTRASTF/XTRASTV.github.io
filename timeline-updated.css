@@ -1,0 +1,100 @@
+@font-face {
+  font-family: century-gothic;
+  src: url(https://saagark22.github.io/century-gothic.ttf);
+}
+
+@font-face {
+  font-family: helvetica;
+  src: url(https://saagark22.github.io/helvetica.ttf);
+}
+
+@font-face{
+	font-family: 'Droid Sans';
+	src: url(https://saagark22.github.io/DroidSans.ttf);
+}
+
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline, .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline p {
+    color: #999 !important;
+    font-weight: 800 !important;
+    font-size: 11px !important;
+    font-family: 'Droid Sans' !important;
+}
+
+.tl-timeline .tl-headline-date, .tl-timeline h3.tl-headline-date {
+	    font-size: 15px;
+    line-height: 15px;
+    font-style: normal !important;
+    color: #333;
+}
+
+.tl-slidenav-previous .tl-slidenav-title, .tl-slidenav-next .tl-slidenav-title {
+    opacity: 1;
+    font-size: 13px;
+    line-height: 11px;
+    color: #555;
+}
+
+.tl-slidenav-previous .tl-slidenav-title:hover, .tl-slidenav-next .tl-slidenav-title:hover {
+    color: #111;
+}
+
+.tl-media-content-container{
+	    max-width: 85%;
+    margin: 0 auto;
+}
+
+.tl-slide .tl-slide-content-container .tl-slide-content .tl-text {
+    width: 45%;
+}
+.tl-slider-container-mask .tl-headline {
+	 font-family: century-gothic !important;
+    color: #85754E !important;
+    text-transform: capitalize !important;
+    font-size: 28px !important;
+    line-height: 30px !important;
+}
+.tl-timenav {
+    width: 100%;
+    background-color: #85754E;
+}
+
+.tl-timeaxis-background { 
+background: #000;
+background: #000;
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container, .tl-timemarker .tl-timemarker-content-container {
+    height: 35px !important;
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline {
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 11px;
+    color: #000 !important;
+}
+
+.tl-timemarker:hover .tl-timemarker-content-container, .tl-timemarker:focus .tl-timemarker-content-container {
+	color: #000;
+    background-color: #fff;
+    border-color: #a6a6a6;
+    box-shadow: none;
+}
+
+.tl-timeline p, .tl-timeline .tl-headline-date, .tl-timeline h3.tl-headline-date {
+font-family: helvetica !important;
+}
+
+.tl-timeline p {
+    font-size: 15px;
+    color: #333;
+}
+
+.tl-timemarker:hover .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline{
+	color: #000 !important;
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-line-left, .tl-timemarker.tl-timemarker-active .tl-timemarker-line-right {
+    border-color: #000;
+    border-width: 2px;
+}
