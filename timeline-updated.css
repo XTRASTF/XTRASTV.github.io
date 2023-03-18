@@ -51,7 +51,10 @@
     color: #85754E !important;
     text-transform: capitalize !important;
     font-size: 38px !important;
-    line-height: 38px !important;
+}
+.tl-slide .tl-slide-content-container {
+    display: table-cell;
+    padding-bottom: 34px !important;
 }
 .tl-timenav {
 	margin-top: 34px;
