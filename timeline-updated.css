@@ -94,8 +94,9 @@ font-family: helvetica !important;
 }
 
 .tl-timeline p {
-    font-size: 15px;
+  font-size: 18px;
     color: #333;
+    line-height: 21px;
 }
 
 .tl-timemarker:hover .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline{
