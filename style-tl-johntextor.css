@@ -47,7 +47,7 @@
 }
 .tl-slider-container-mask .tl-headline {
     font-family: avenir-regular !important;
-    color: #102043 !important;
+    color: #949494 !important;
     text-transform: capitalize !important;
     font-size: 38px !important;
 }
@@ -62,7 +62,7 @@
 }
 .tl-timenav {
     width: 100%;
-    background-color: #102043;
+    background-color: #949494;
 }
 
 .tl-timeaxis-background { 
