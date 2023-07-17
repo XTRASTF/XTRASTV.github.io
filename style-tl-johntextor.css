@@ -12,7 +12,6 @@
     font-family: 'Droid Sans';
     src: url(https://xtrastf.github.io/DroidSans.ttf);
 }
-
 .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline, .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline p {
     color: #999 !important;
     font-weight: 800 !important;
@@ -48,7 +47,7 @@
 }
 .tl-slider-container-mask .tl-headline {
     font-family: avenir-regular !important;
-    color: #85754E !important;
+    color: #102043 !important;
     text-transform: capitalize !important;
     font-size: 38px !important;
 }
@@ -63,7 +62,7 @@
 }
 .tl-timenav {
     width: 100%;
-    background-color: #949494;
+    background-color: #102043;
 }
 
 .tl-timeaxis-background { 
