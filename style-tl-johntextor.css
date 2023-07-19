@@ -21,15 +21,15 @@
 
 .tl-timeline .tl-headline-date, .tl-timeline h3.tl-headline-date {
         font-size: 18px;
-    line-height: 15px;
+    line-height: 18px;
     font-style: normal !important;
     color: #333;
 }
 
 .tl-slidenav-previous .tl-slidenav-title, .tl-slidenav-next .tl-slidenav-title {
     opacity: 1;
-    font-size: 13px;
-    line-height: 11px;
+    font-size: 16px;
+    line-height: 14px;
     color: #555;
 }
 
